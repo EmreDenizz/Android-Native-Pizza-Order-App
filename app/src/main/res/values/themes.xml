@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#C72026</item>
+    </style>
+    <style name="Base.Theme.PizzaOnline" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+    <style name="Theme.PizzaOnline" parent="Base.Theme.PizzaOnline" />
+</resources>

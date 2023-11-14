@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cheese"
+        android:orderInCategory="1"
+        android:title="Cheese Pizza" />
+
+    <item
+        android:id="@+id/veggie"
+        android:orderInCategory="2"
+        android:title="Veggie Pizza" />
+
+    <item
+        android:id="@+id/pepperoni"
+        android:orderInCategory="3"
+        android:title="Pepperoni Pizza" />
+
+    <item
+        android:id="@+id/chicken"
+        android:orderInCategory="4"
+        android:title="Chicken Pizza" />
+
+    <item
+        android:id="@+id/supreme"
+        android:orderInCategory="5"
+        android:title="Supreme Pizza" />
+</menu>
